@@ -1,6 +1,6 @@
 {
   "name": "solstice-platform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Access Solstice workspaces, reviews, and documents, including append-only HTML and PDF versions.",
   "author": {
     "name": "Solstice Health",
@@ -25,6 +25,8 @@
       "Open a document from a Solstice content review.",
       "Add this HTML or PDF as a new version in a Solstice review."
     ],
-    "brandColor": "#5E6AD2"
+    "brandColor": "#5E6AD2",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
   }
 }

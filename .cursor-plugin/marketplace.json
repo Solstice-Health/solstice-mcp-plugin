@@ -11,7 +11,8 @@
     {
       "name": "solstice-platform",
       "source": "plugins/solstice-platform",
-      "description": "Access Solstice review content and append document versions."
+      "description": "Access Solstice review content and append document versions.",
+      "logo": "plugins/solstice-platform/assets/logo.png"
     }
   ]
 }

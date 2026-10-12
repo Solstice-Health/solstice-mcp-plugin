@@ -1,0 +1,17 @@
+{
+  "name": "solstice-tools",
+  "owner": {
+    "name": "Solstice Health",
+    "email": "engineering@solsticehealth.co"
+  },
+  "metadata": {
+    "description": "Solstice Platform plugin. Clients call the hosted Solstice MCP."
+  },
+  "plugins": [
+    {
+      "name": "solstice-platform",
+      "source": "plugins/solstice-platform",
+      "description": "Access Solstice review content and append document versions."
+    }
+  ]
+}

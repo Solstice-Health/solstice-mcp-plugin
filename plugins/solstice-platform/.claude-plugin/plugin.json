@@ -1,0 +1,13 @@
+{
+  "name": "solstice-platform",
+  "description": "Access Solstice workspaces, reviews, and documents, including append-only HTML and PDF versions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Solstice Health",
+    "email": "engineering@solsticehealth.co"
+  },
+  "homepage": "https://solsticehealth.co",
+  "repository": "https://github.com/Solstice-Health/solstice-mcp-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "solstice", "life-sciences", "auth0", "remote-mcp"]
+}
